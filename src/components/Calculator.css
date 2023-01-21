@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+}
+
+.home {
+    display: flex;
+    justify-content: space-evenly;
+}
